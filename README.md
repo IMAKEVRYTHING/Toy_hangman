@@ -1,2 +1,5 @@
 # Toy_hangman
-d
+# Standard File I/O with csv
+# Winsound
+# Game
+# Hangman
